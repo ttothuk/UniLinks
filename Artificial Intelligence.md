@@ -12,3 +12,5 @@ The website has additional links about any machine learning topic. It also has a
 
 :computer: [ML tutorial in Python](https://www.youtube.com/watch?v=M9Itm95JzL0)  
  YouTube tutorial.
+ 
+:lizard:
