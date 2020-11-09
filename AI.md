@@ -1,6 +1,7 @@
 # Artificial Intelligence
 
-## Books
+:books:
 [Deep Learning Book](https://www.deeplearningbook.org/)
 
-## Tutorials
+:computer:
+ 
