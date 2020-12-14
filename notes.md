@@ -7,10 +7,10 @@
 #### (a) Explain the concept of a version control system. Indicate the major types of such systems
 
 - A version control system is a software package that when initiated will monitor your files for changes and allow you to tag the changes at different levels so that you can revisit those tagged stages whenever needed. Version control provides the following capabilities:
-- A place to store the source code, images, build scripts, and so on needed to build your software project;
-- The ability to track the history of changes to those files, and to view the state of the file at various points in the software life cycle;
-- Mechanisms and tooling to make it easy to work in parallel with a team of software developers on the same project.
-- There are three types of version control systems available, classified based on their mode of operation: Local version control system, Centralised version control system, Distributed version control system.
+  - A place to store the source code, images, build scripts, and so on needed to build your software project;
+  - The ability to track the history of changes to those files, and to view the state of the file at various points in the software life cycle;
+  - Mechanisms and tooling to make it easy to work in parallel with a team of software developers on the same project.
+  - There are three types of version control systems available, classified based on their mode of operation: Local version control system, Centralised version control system, Distributed version control system.
 
 #### (b) Write short notes on each of the following in the context of version control
 
